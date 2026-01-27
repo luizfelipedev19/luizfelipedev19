@@ -6,7 +6,7 @@ Tenho interesse em desenvolver **APIs REST seguras, bem estruturadas e escaláve
 
 ---
 
-## ☕ Backend Java (Foco Principal)
+## ☕ Backend Java
 
 <img align="left" title="Java" width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
