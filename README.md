@@ -31,6 +31,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 - Desenvolvimento de **APIs REST**
 - **Spring Boot** e **Spring Data JPA**
 - **Autenticação e autorização com JWT**
+- Docker
 - Validação de dados e tratamento global de exceções
 - Integração com bancos de dados relacionais
 - Versionamento de código com **Git e GitHub**
