@@ -63,11 +63,11 @@ Funcionalidades em implementação:
 
 Stack do projeto:
 
-Back-end: Spring Boot, Spring Security
-Banco de dados: PostgreSQL
-Autenticação: JWT
-Arquitetura: Camadas (Controller, Service, Repository)
-Testes: Implementação em andamento com JUnit 5
+- Back-end: Spring Boot, Spring Security
+- Banco de dados: PostgreSQL
+- Autenticação: JWT
+- Arquitetura: Camadas (Controller, Service, Repository)
+- Testes: Implementação em andamento com JUnit 5
 
 📌 O andamento do projeto pode ser acompanhado no GitHub. Após finalização, será publicado em ambiente real para uso.
 
