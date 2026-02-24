@@ -77,8 +77,3 @@ FrontEnd será providenciado ao finalizar do backend.
 
 HTML e CSS
 React (consumo de APIs REST)
-
-
-🎯 Objetivo Profissional
-
-Busco uma oportunidade como Desenvolvedor Backend Java Júnior, onde possa evoluir tecnicamente, contribuir com o time e aprofundar meus conhecimentos em Spring Boot, segurança e arquitetura de software.
