@@ -128,11 +128,6 @@ Mod para Minecraft Java Edition desenvolvido com o Fabric Mod Loader, adicionand
 📚 Formação Acadêmica
 
 * Análise e Desenvolvimento de Sistemas — FATEC Mococa (em andamento)
-* Ciências Econômicas — UNIFAL-MG
+
 
 ---
-
-🎨 Conhecimentos Complementares
-
-* HTML e CSS
-* JavaScript
