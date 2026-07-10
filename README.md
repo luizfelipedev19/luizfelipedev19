@@ -1,11 +1,10 @@
 👨‍💻 Luiz Felipe Vieira
 
-Desenvolvedor Backend Java | Júnior
+Desenvolvedor Backend | Java & PHP
 
-Sou desenvolvedor backend com foco em Java e Spring Boot e PHP, atualmente cursando Análise e Desenvolvimento de Sistemas na FATEC Mococa.
-Tenho interesse em desenvolver APIs REST seguras, bem estruturadas e escaláveis, aplicando boas práticas de backend, arquitetura em camadas e autenticação com JWT.
+Atuo como desenvolvedor backend em uma empresa de telecomunicações, dando manutenção e evoluindo sistemas em produção, além de desenvolver soluções próprias em Java e PHP. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa.
 
-Também possuo experiência com desenvolvimento em PHP, utilizando arquitetura MVC e boas práticas na construção de APIs e sistemas web completos, incluindo integração com banco de dados e consumo de APIs.
+No dia a dia trabalho com Docker, Kubernetes e Argo CD para gerenciamento de pipelines e ambientes, além de integração entre sistemas legados e novas APIs. Tenho interesse em arquitetura de software (MVC, hexagonal), boas práticas de backend e escalabilidade.
 
 ---
 
@@ -15,9 +14,9 @@ Também possuo experiência com desenvolvimento em PHP, utilizando arquitetura M
 
 <img align="left" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
-<img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
 <img align="left" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
+<img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
 <img align="left" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
@@ -29,6 +28,8 @@ Também possuo experiência com desenvolvimento em PHP, utilizando arquitetura M
 
 <img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
+<img align="left" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+
 <img align="left" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <img align="left" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -37,90 +38,97 @@ Também possuo experiência com desenvolvimento em PHP, utilizando arquitetura M
 
 <br/><br/>
 
+🐳 Infraestrutura & DevOps
+
+<img align="left" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+<img align="left" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+
+<img align="left" title="ArgoCD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />
+
+<br/><br/>
+
 🧠 Conhecimentos Técnicos
 
 * Desenvolvimento de APIs REST
 * Java com Spring Boot e Spring Data JPA
+* PHP com arquitetura MVC (com e sem framework)
 * Autenticação e autorização com JWT
 * Spring Security
-* PHP 8.3 com arquitetura MVC
-* Desenvolvimento de APIs em PHP
-* Consumo de APIs com PHP e JavaScript
-* Integração com bancos de dados (MySQL 8.0 e PostgreSQL)
-* Validação de dados e tratamento de exceções
-* Docker (ambiente de desenvolvimento)
+* Arquitetura em camadas e arquitetura hexagonal
+* Prisma como ORM
+* Integração e consumo de APIs (incluindo sistemas legados)
+* Integração de disparo de mensagens via API (WhatsApp)
+* Automação de rotinas via cron jobs
+* Bancos de dados relacionais (PostgreSQL e MySQL)
+* Docker e Docker Compose para ambientes de desenvolvimento
+* Kubernetes e Argo CD para gerenciamento de pipelines
 * Versionamento de código com Git e GitHub
-* Arquitetura em camadas (Controller, Service, Repository)
+* Documentação de API com Swagger/OpenAPI
 
 ---
 
 🚀 Projetos em Destaque
 
-📚 Biblioteca Pessoal (em desenvolvimento)
-(Projeto de estudo com toda base do PHP, deixando uma api estruturada e um front responsivo)
+⛪ Rodízio - Igreja
+(Sistema de agendamento e disparo automático de mensagens)
 
-Sistema web completo para gerenciamento de livros pessoais, dividido em backend e frontend.
+Sistema para gerenciar o rodízio de avisos de uma igreja: cadastro de pessoas, montagem de escalas com horários, e disparo automático de lembretes via WhatsApp.
 
-🔧 Back-end:
+* Backend em PHP puro (sem framework), API REST com PDO + PostgreSQL
+* Autenticação via JWT + API Key
+* Frontend em PHP + JavaScript atuando como BFF (Backend For Frontend)
+* Cron responsável por disparar lembretes automaticamente nos horários configurados
+* Integração com API EvoGo para envio de mensagens no WhatsApp
+* Trilha de auditoria (audit log) de todas as requisições da API
+* Ambiente 100% containerizado com Docker Compose
 
-* API REST desenvolvida em PHP 8.3
-* Arquitetura MVC
-* CRUD completo de livros
-* Validação de dados
-* Integração com banco MySQL 8.0
-* Uso do Cloudinary para armazenamento de fotos de perfil
+🧾 Sistema de Disparo de Faturas (App-Faturas)
+(Consumo de API de sistema legado da empresa)
 
-🎨 Front-end:
+Sistema desenvolvido em PHP para organizar e disparar faturas de acordo com as regras de negócio da empresa, consumindo a API do sistema legado.
 
-* Desenvolvido com HTML, CSS e JavaScript
-* Interface para interação com o usuário
-* Consumo da API utilizando PHP
+* Integração com sistema legado via API
+* Regras de negócio para organização e formatação de faturas
+* Disparo de faturas via WhatsApp e e-mail
+* Dashboard com contadores e listagem paginada
+* Documentação da API com Swagger
 
-📌 O projeto está sendo desenvolvido com foco em organização, boas práticas e separação de responsabilidades entre frontend e backend.
+📦 Sistema de Gestão de Estoque
+(Projeto pessoal de estudo em Java)
 
-🔗 Repositórios disponíveis no GitHub (Back-End e Front-End)
+Sistema web para gestão completa de estoque empresarial, usado como projeto de estudo de Java e Spring.
 
----
-
-📦 Sistema de Gestão de Estoque (em desenvolvimento)
-(Projeto pessoal em java)
-
-Sistema web voltado para a gestão completa de estoque empresarial.
-
-Funcionalidades em implementação:
-
-* Cadastro e autenticação de usuários
-* Cadastro, listagem e gerenciamento de produtos
-* Controle de movimentações de estoque
-* Geração de relatórios
-* Exportação de relatórios em PDF
-* Proteção de rotas e controle de permissões
-
-Stack do projeto:
-
-* Back-end: Spring Boot, Spring Security
-* Banco de dados: PostgreSQL
-* Autenticação: JWT
-* Arquitetura: Camadas (Controller, Service, Repository)
-* Testes: Implementação em andamento com JUnit 5
-
-📌 O andamento do projeto pode ser acompanhado no GitHub.
-
----
-📋 API de Gerenciamento de Tarefas
-
-API REST desenvolvida com Spring Boot, focada em boas práticas de backend e segurança.
-
-Funcionalidades:
-
-* Cadastro e autenticação de usuários
+* Backend em Spring Boot com Spring Security
 * Autenticação com JWT
-* CRUD de tarefas
-* Proteção de rotas
-* Validação de dados
-* Persistência com JPA/Hibernate
+* Banco de dados PostgreSQL
+* Arquitetura em camadas (Controller, Service, Repository)
+* Testes em andamento com JUnit 5
 
-🔗 Projeto disponível nos repositórios do GitHub
+🔨 Manutenção de Sistema Legado
+(Atuação profissional)
+
+Manutenção e evolução de um sistema legado da empresa, desenvolvido em PHP 5.3 com MySQL, incluindo correções, novas funcionalidades e integrações com sistemas mais novos.
+
+---
+
+🎮 Projetos Extras
+
+⚒️ Marreta Biônica — Mod Fabric para Minecraft
+(Projeto de estudo em Java)
+
+Mod para Minecraft Java Edition desenvolvido com o Fabric Mod Loader, adicionando uma ferramenta customizada com poderes especiais e sistema de rede cliente-servidor.
+
+* Registro de itens, tags e materiais customizados
+* Callbacks de evento e comunicação cliente-servidor via pacotes customizados
+* Textura e modelo próprios
+
+---
+
+📚 Formação Acadêmica
+
+* Análise e Desenvolvimento de Sistemas — FATEC Mococa (em andamento)
+* Ciências Econômicas — UNIFAL-MG
 
 ---
 
