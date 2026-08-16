@@ -1,30 +1,18 @@
 👨‍💻 Luiz Felipe Vieira
 
-Desenvolvedor Backend | Java & PHP
+Desenvolvedor Backend Junior | PHP & GO
 
-Atuo como desenvolvedor backend em uma empresa de telecomunicações, dando manutenção e evoluindo sistemas em produção, além de desenvolver soluções próprias em Java e PHP. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa.
+Atuo como desenvolvedor backend Junior em uma empresa de telecomunicações, dando manutenção e evoluindo sistemas em produção, além de desenvolver soluções próprias em PHP e GO. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa.
 
-No dia a dia trabalho com Docker, Kubernetes e Argo CD para gerenciamento de pipelines e ambientes, além de integração entre sistemas legados e novas APIs. Tenho interesse em arquitetura de software (MVC, hexagonal), boas práticas de backend e escalabilidade.
+No dia a dia trabalho com Docker, Kubernetes e Argo CD para gerenciamento de pipelines e ambientes, além de integração entre sistemas legados e novas APIs. Tenho bons conhecimentos em segurança de aplicações (JWT, HMAC, API Keys, boas práticas de autenticação/autorização) e interesse em arquitetura de software (MVC, hexagonal), boas práticas de backend e escalabilidade.
 
 ---
 
-☕ Backend Java
-
-<img align="left" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img align="left" title="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-<img align="left" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<br/><br/>
-
-🐘 Backend PHP
+🐘 Backend PHP & GO
 
 <img align="left" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+
+<img align="left" title="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
 
 <img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
@@ -50,11 +38,10 @@ No dia a dia trabalho com Docker, Kubernetes e Argo CD para gerenciamento de pip
 
 🧠 Conhecimentos Técnicos
 
-* Desenvolvimento de APIs REST
-* Java com Spring Boot e Spring Data JPA
+* Desenvolvimento de APIs REST em PHP e GO
 * PHP com arquitetura MVC (com e sem framework)
-* Autenticação e autorização com JWT
-* Spring Security
+* Autenticação e autorização com JWT, API Key e HMAC
+* Boas práticas de segurança em aplicações backend
 * Arquitetura em camadas e arquitetura hexagonal
 * Prisma como ORM
 * Integração e consumo de APIs (incluindo sistemas legados)
@@ -84,50 +71,46 @@ Sistema para gerenciar o rodízio de avisos de uma igreja: cadastro de pessoas, 
 * Ambiente 100% containerizado com Docker Compose
 
 🧾 Sistema de Disparo de Faturas (App-Faturas)
-(Consumo de API de sistema legado da empresa)
+(Consumo de API de sistema legado admin em PHP)
 
-Sistema desenvolvido em PHP para organizar e disparar faturas de acordo com as regras de negócio da empresa, consumindo a API do sistema legado.
+Sistema desenvolvido em PHP para organizar e disparar faturas de acordo com as regras de negócio da empresa, consumindo a API de um sistema admin legado em PHP.
 
-* Integração com sistema legado via API
+* Integração com sistema admin legado (PHP) via API
 * Regras de negócio para organização e formatação de faturas
 * Disparo de faturas via WhatsApp e e-mail
 * Dashboard com contadores e listagem paginada
 * Documentação da API com Swagger
 
-📦 Sistema de Gestão de Estoque
-(Projeto pessoal de estudo em Java)
+⚡ Disparador-GO - Sistema de disparo unitário ou em Lote, usando a API oficial META
+(Projeto de disparo de mensagens em GO)
 
-Sistema web para gestão completa de estoque empresarial, usado como projeto de estudo de Java e Spring.
+Projeto desenvolvido em GO para envio e controle de disparos de mensagens, explorando concorrência e performance da linguagem em rotinas de disparo.
 
-* Backend em Spring Boot com Spring Security
-* Autenticação com JWT
-* Banco de dados PostgreSQL
-* Arquitetura em camadas (Controller, Service, Repository)
-* Testes em andamento com JUnit 5
+* Backend em GO
+* Integração com APIs externas para envio de mensagens
+* Foco em performance e concorrência
+
 
 🔨 Manutenção de Sistema Legado
-(Atuação profissional)
-
-Manutenção e evolução de um sistema legado da empresa, desenvolvido em PHP 5.3 com MySQL, incluindo correções, novas funcionalidades e integrações com sistemas mais novos.
+(Atuação profissional. Manutenção e evolução de um sistema legado da empresa, desenvolvido em PHP 5.3 com MySQL, incluindo correções, novas funcionalidades e integrações com sistemas mais novos.)
 
 ---
 
 🎮 Projetos Extras
 
-⚒️ Marreta Biônica — Mod Fabric para Minecraft
-(Projeto de estudo em Java)
+📝 Quick-Note — Extensão para Firefox
+(Projeto de estudo em JavaScript)
 
-Mod para Minecraft Java Edition desenvolvido com o Fabric Mod Loader, adicionando uma ferramenta customizada com poderes especiais e sistema de rede cliente-servidor.
+Extensão para o navegador Firefox voltada para anotações rápidas, desenvolvida como projeto pessoal de aprendizado.
 
-* Registro de itens, tags e materiais customizados
-* Callbacks de evento e comunicação cliente-servidor via pacotes customizados
-* Textura e modelo próprios
+* Desenvolvida com WebExtensions API
+* Interface simples para criação e gerenciamento de notas
+* Persistência local dos dados
 
 ---
 
 📚 Formação Acadêmica
 
 * Análise e Desenvolvimento de Sistemas — FATEC Mococa (em andamento)
-
 
 ---
