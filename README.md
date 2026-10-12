@@ -1,116 +1,153 @@
-👨‍💻 Luiz Felipe Vieira
+# Luiz Felipe Vieira
 
-Desenvolvedor Backend Junior | PHP & GO
+**Desenvolvedor Backend Júnior | PHP e Node.js**
 
-Atuo como desenvolvedor backend Junior em uma empresa de telecomunicações, dando manutenção e evoluindo sistemas em produção, além de desenvolver soluções próprias em PHP e GO. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa.
+Atuo como desenvolvedor backend júnior em uma empresa de telecomunicações, trabalhando na manutenção e evolução de sistemas em produção, no desenvolvimento de funcionalidades e na integração entre aplicações. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa e desenvolvo projetos próprios com PHP, JavaScript e Node.js.
 
-No dia a dia trabalho com Docker, Kubernetes e Argo CD para gerenciamento de pipelines e ambientes, além de integração entre sistemas legados e novas APIs. Tenho bons conhecimentos em segurança de aplicações (JWT, HMAC, API Keys, boas práticas de autenticação/autorização) e interesse em arquitetura de software (MVC, hexagonal), boas práticas de backend e escalabilidade.
+Minha experiência inclui APIs REST, integração com sistemas legados, automação de rotinas e persistência em bancos de dados. No ambiente profissional, utilizo Docker, Kubernetes e Argo CD em atividades relacionadas a ambientes e processos de entrega de aplicações.
 
----
+Tenho interesse em segurança de aplicações, arquitetura de software e organização de regras de negócio. Nos projetos, aplico autenticação e autorização com JWT, API Keys e HMAC, além de explorar arquitetura MVC, organização em camadas e arquitetura hexagonal.
 
-🐘 Backend PHP & GO
+## Tecnologias e conhecimentos
 
-<img align="left" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+### Desenvolvimento e bancos de dados
 
-<img align="left" title="Go" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-
-<img align="left" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img align="left" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="left" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NestJS" title="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="MongoDB — aprendizado inicial" title="MongoDB — aprendizado inicial" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML5" title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
 <br/><br/>
 
-🐳 Infraestrutura & DevOps
+### Infraestrutura e DevOps
 
-<img align="left" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-<img align="left" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
-
-<img align="left" title="ArgoCD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />
+<img align="left" alt="Docker" title="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Kubernetes" title="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+<img align="left" alt="Argo CD" title="Argo CD" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" />
 
 <br/><br/>
 
-🧠 Conhecimentos Técnicos
+| Área | Tecnologias e práticas |
+| --- | --- |
+| Backend | PHP, Node.js, Express, NestJS e desenvolvimento de APIs REST. |
+| Frontend | JavaScript, HTML5 e CSS3. |
+| Bancos de dados | PostgreSQL e MySQL; aprendizado inicial de MongoDB aplicado ao projeto My-CEP. |
+| Acesso a dados | PDO, Prisma e Mongoose. |
+| Segurança | JWT, API Keys, HMAC e práticas de autenticação e autorização. |
+| Arquitetura | MVC, arquitetura em camadas e estudos de arquitetura hexagonal. |
+| Integrações | Consumo de APIs, integração com sistemas legados e envio de mensagens via WhatsApp. |
+| Automação | Agendamento de rotinas com cron jobs. |
+| Infraestrutura | Docker, Docker Compose, Kubernetes e Argo CD. |
+| Versionamento e documentação | Git, GitHub e Swagger/OpenAPI. |
 
-* Desenvolvimento de APIs REST em PHP e GO
-* PHP com arquitetura MVC (com e sem framework)
-* Autenticação e autorização com JWT, API Key e HMAC
-* Boas práticas de segurança em aplicações backend
-* Arquitetura em camadas e arquitetura hexagonal
-* Prisma como ORM
-* Integração e consumo de APIs (incluindo sistemas legados)
-* Integração de disparo de mensagens via API (WhatsApp)
-* Automação de rotinas via cron jobs
-* Bancos de dados relacionais (PostgreSQL e MySQL)
-* Docker e Docker Compose para ambientes de desenvolvimento
-* Kubernetes e Argo CD para gerenciamento de pipelines
-* Versionamento de código com Git e GitHub
-* Documentação de API com Swagger/OpenAPI
+## Projetos em destaque
 
----
+### My-CEP
 
-🚀 Projetos em Destaque
+Aplicação web para consulta de CEPs brasileiros, com interface responsiva em HTML, CSS e JavaScript e backend em Node.js com Express. A API consulta a ViaCEP e persiste os dados de endereço no MongoDB por meio do Mongoose.
 
-⛪ Rodízio - Igreja
-(Sistema de agendamento e disparo automático de mensagens)
+- Validação e normalização de CEPs no frontend e no backend.
+- Integração com um serviço externo para consulta de endereços.
+- Persistência de endereço e data da consulta no MongoDB.
+- Organização do backend em rotas, controller, serviço, modelo e configuração de banco de dados.
+- Configuração por variáveis de ambiente e comunicação HTTP entre interface e API.
 
-Sistema para gerenciar o rodízio de avisos de uma igreja: cadastro de pessoas, montagem de escalas com horários, e disparo automático de lembretes via WhatsApp.
+Projeto educacional voltado à prática de Node.js, integração entre frontend e backend e armazenamento de dados em banco não relacional.
 
-* Backend em PHP puro (sem framework), API REST com PDO + PostgreSQL
-* Autenticação via JWT + API Key
-* Frontend em PHP + JavaScript atuando como BFF (Backend For Frontend)
-* Cron responsável por disparar lembretes automaticamente nos horários configurados
-* Integração com API EvoGo para envio de mensagens no WhatsApp
-* Trilha de auditoria (audit log) de todas as requisições da API
-* Ambiente 100% containerizado com Docker Compose
+### Rodízio — Igreja
 
-🧾 Sistema de Disparo de Faturas (App-Faturas)
-(Consumo de API de sistema legado admin em PHP)
+Sistema para gerenciar escalas de avisos de uma igreja, com cadastro de pessoas, definição de horários e envio automático de lembretes pelo WhatsApp.
 
-Sistema desenvolvido em PHP para organizar e disparar faturas de acordo com as regras de negócio da empresa, consumindo a API de um sistema admin legado em PHP.
+- Backend em PHP sem framework, com API REST, PDO e PostgreSQL.
+- Autenticação com JWT e API Key.
+- Frontend em PHP e JavaScript, atuando como BFF (Backend for Frontend).
+- Agendamento de lembretes com cron.
+- Integração com uma API externa para envio de mensagens pelo WhatsApp.
+- Registro de auditoria das requisições da API.
+- Ambiente containerizado com Docker Compose.
 
-* Integração com sistema admin legado (PHP) via API
-* Regras de negócio para organização e formatação de faturas
-* Disparo de faturas via WhatsApp e e-mail
-* Dashboard com contadores e listagem paginada
-* Documentação da API com Swagger
+### App-Faturas
 
-⚡ Disparador-GO - Sistema de disparo unitário ou em Lote, usando a API oficial META
-(Projeto de disparo de mensagens em GO)
+Sistema desenvolvido em PHP para organizar e enviar faturas conforme as regras de negócio da empresa, integrado à API de um sistema administrativo legado.
 
-Projeto desenvolvido em GO para envio e controle de disparos de mensagens, explorando concorrência e performance da linguagem em rotinas de disparo.
+- Consumo de API de sistema legado desenvolvido em PHP.
+- Regras de organização e formatação de faturas.
+- Envio de faturas por WhatsApp e e-mail.
+- Dashboard com indicadores e listagem paginada.
+- Documentação da API com Swagger.
 
-* Backend em GO
-* Integração com APIs externas para envio de mensagens
-* Foco em performance e concorrência
+### Quick-Note
 
+Extensão para Firefox desenvolvida em JavaScript para criação e gerenciamento de anotações rápidas.
 
-🔨 Manutenção de Sistema Legado
-(Atuação profissional. Manutenção e evolução de um sistema legado da empresa, desenvolvido em PHP 5.3 com MySQL, incluindo correções, novas funcionalidades e integrações com sistemas mais novos.)
+- Utilização da WebExtensions API.
+- Interface para criação e gerenciamento de notas.
+- Persistência local dos dados.
 
----
+## Experiência profissional
 
-🎮 Projetos Extras
+### Manutenção e evolução da Allenda
 
-📝 Quick-Note — Extensão para Firefox
-(Projeto de estudo em JavaScript)
+Atuação na manutenção e evolução da **Allenda**, plataforma multitenant desenvolvida com **NestJS**, no ecossistema Node.js. O sistema reúne integração com WhatsApp, helpdesk, CRM, automação de processos e funcionalidades de atendimento ao cliente para múltiplas organizações.
 
-Extensão para o navegador Firefox voltada para anotações rápidas, desenvolvida como projeto pessoal de aprendizado.
+Contribuo para a correção de problemas e evolução das funcionalidades, aplicando boas práticas de desenvolvimento e arquitetura de software, com foco na separação de responsabilidades, organização das regras de negócio e manutenção do código.
 
-* Desenvolvida com WebExtensions API
-* Interface simples para criação e gerenciamento de notas
-* Persistência local dos dados
+- Manutenção e evolução de funcionalidades de atendimento integradas ao WhatsApp.
+- Atuação em recursos de helpdesk, CRM e automação de processos.
+- Desenvolvimento e manutenção do backend em NestJS.
+- Aplicação de boas práticas na organização dos componentes e das regras de negócio.
+- Atenção ao contexto de cada organização na evolução de um sistema multitenant.
 
----
+### Manutenção e evolução de sistemas legados
 
-📚 Formação Acadêmica
+Atuação na manutenção de um sistema empresarial desenvolvido em PHP 5.3 com MySQL, incluindo correção de problemas, implementação de funcionalidades e integração com aplicações mais recentes.
 
-* Análise e Desenvolvimento de Sistemas — FATEC Mococa (em andamento)
+Essa experiência envolve compreender regras de negócio existentes, dar continuidade à operação dos sistemas e desenvolver melhorias para demandas do ambiente de telecomunicações.
 
----
+## Projetos acadêmicos em Java
+
+<img align="left" alt="Java" title="Java — formação acadêmica" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="Spring" title="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<br/><br/>
+
+Estudo Java como parte da formação em Análise e Desenvolvimento de Sistemas. Os projetos com Spring Boot complementam o aprendizado de orientação a objetos, APIs REST, segurança e persistência de dados.
+
+### API de Usuários
+
+API REST para cadastro e autenticação de usuários, desenvolvida com Java 21 e Spring Boot 3.
+
+- Autenticação JWT e proteção de endpoints com Spring Security.
+- Persistência com Spring Data JPA, Hibernate e PostgreSQL.
+- Versionamento do banco de dados com Flyway.
+- Documentação interativa com Swagger/OpenAPI.
+- Gerenciamento de dependências com Maven.
+
+### API de Gerenciamento de Tarefas
+
+API REST desenvolvida com Java 21 e Spring Boot 3.2.5 para gerenciamento de tarefas associadas ao usuário autenticado.
+
+- Cadastro e autenticação de usuários com JWT.
+- Criação, listagem, atualização de status e exclusão de tarefas.
+- Proteção de rotas com Spring Security.
+- Persistência com Spring Data JPA e Hibernate.
+- Organização em controllers, services, repositories, DTOs e componentes de segurança.
+- Tratamento global de exceções.
+
+## Formação acadêmica
+
+**Análise e Desenvolvimento de Sistemas — FATEC Mococa**  
+Em andamento.
+
+## Interesses de desenvolvimento
+
+- Desenvolvimento backend com PHP e Node.js.
+- Integração de sistemas e construção de APIs REST.
+- Segurança, autenticação e autorização.
+- Automação de processos e rotinas operacionais.
+- Arquitetura de software, manutenção e evolução de aplicações.
