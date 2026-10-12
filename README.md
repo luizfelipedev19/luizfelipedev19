@@ -2,7 +2,7 @@
 
 **Desenvolvedor Backend Júnior | PHP e Node.js**
 
-Atuo como desenvolvedor backend júnior em uma empresa de telecomunicações, trabalhando na manutenção e evolução de sistemas em produção, no desenvolvimento de funcionalidades e na integração entre aplicações. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa e desenvolvo projetos próprios com PHP, JavaScript e Node.js.
+Atuo como desenvolvedor backend júnior na Allenda, plataforma multitenant, trabalhando na manutenção e evolução de sistemas em produção, no desenvolvimento de funcionalidades e na integração entre aplicações. Curso Análise e Desenvolvimento de Sistemas na FATEC Mococa e desenvolvo projetos próprios com PHP, JavaScript e Node.js.
 
 Minha experiência inclui APIs REST, integração com sistemas legados, automação de rotinas e persistência em bancos de dados. No ambiente profissional, utilizo Docker, Kubernetes e Argo CD em atividades relacionadas a ambientes e processos de entrega de aplicações.
 
