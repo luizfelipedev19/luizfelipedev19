@@ -47,6 +47,18 @@ Tenho interesse em segurança de aplicações, arquitetura de software e organiz
 
 ## Projetos em destaque
 
+### Helpdesk API
+Sistema de helpdesk multiempresa (multi-tenant), com backend em Node.js, Express e TypeScript, persistência em PostgreSQL e autenticação via JWT. Cada empresa cadastrada opera de forma isolada, com seus próprios usuários, categorias e chamados.
+
+- Isolamento de dados por empresa (multi-tenancy) reforçado em todas as camadas de acesso ao banco.
+- Autenticação com JWT e senhas com hash via Argon2, com papéis de usuário (atendente, gestor, admin) e autorização por rota.
+- Fluxo completo de ciclo de vida de chamados: criação, atribuição a um atendente (ou fila sem responsável), atualização e trilha de auditoria das mudanças de status, prioridade e responsável.
+- Rate limiting diferenciado por rota (login, cadastro de empresa, uso geral da API) para mitigar força bruta e abuso.
+- Validação de entrada com Zod e tratamento de erros padronizado.
+- Backend organizado em camadas (rotas, controllers, services, repositories, schemas e models), com transações de banco para garantir consistência entre atualização de dados e registro de auditoria.
+- Ambiente containerizado com Docker Compose, incluindo banco PostgreSQL e sistema de migrations versionadas.
+- Projeto em desenvolvimento ativo, com foco em arquitetura de backend, modelagem de domínio multi-tenant e boas práticas de segurança em APIs REST.
+
 ### My-CEP
 
 Aplicação web para consulta de CEPs brasileiros, com interface responsiva em HTML, CSS e JavaScript e backend em Node.js com Express. A API consulta a ViaCEP e persiste os dados de endereço no MongoDB por meio do Mongoose.
